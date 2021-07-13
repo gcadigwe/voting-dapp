@@ -59,3 +59,15 @@
   box-shadow: 1px 3px 7px 3px rgba(0, 0, 0, 0.2);
   color: #111;
 }
+
+.voting__right > .Yesloading {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+}
+
+.voting__left > .Noloading {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+}
